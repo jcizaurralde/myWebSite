@@ -1,0 +1,7 @@
+body{
+    background: rgb(0,255,201);
+    background: linear-gradient(293deg, rgba(0,255,201,1) 0%, rgba(38,40,74,1) 58%);
+}
+#presentacion{
+    color: #3FDCE3;
+}
